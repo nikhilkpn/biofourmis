@@ -1,2 +1,2 @@
 # biofourmis
-clone the repo and runn 'python3 simulation.py'
+clone the repo and run 'python3 simulation.py'
